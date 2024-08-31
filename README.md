@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**Leoraiox/Leoraiox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Leoraiox_/Leoraiox_** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
