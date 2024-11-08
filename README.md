@@ -7,7 +7,7 @@
 [![Social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.facebook.com/leonardo.candido.902/)
 ![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 
-![Leoraiox GitHub stats](https://github-readme-stats.vercel.app/api?username=LEONARDOJOSE&show_icons=true&theme=gruvbox)
+
 
 ## Tecnologias e Ferramentas
 <div style="display: inline_"><br>
